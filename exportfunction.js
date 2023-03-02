@@ -1,4 +1,4 @@
-const function = (a, b) => {
-  return (a = 5), (b = 6);
+const add = (a, b) => {
+  return a + b;
 };
-module.exports=function;
+module.exports = add;
